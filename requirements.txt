@@ -1,0 +1,15 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+opencv-python
+Pillow
+
+# Deep learning
+# Install the appropriate PyTorch build for your hardware from pytorch.org.
+# torch
+torchvision
+
+# Development
+jupyter
+pytest

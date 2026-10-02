@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
+
+# Data and model artifacts
+/data/raw/*
+/data/processed/*
+/models/*
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Keep directory placeholders
+!/data/raw/.gitkeep
+!/data/processed/.gitkeep
+!/models/.gitkeep
